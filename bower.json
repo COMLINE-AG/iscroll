@@ -2,7 +2,8 @@
   "name": "iscroll",
   "description": "Smooth scrolling for the web",
   "main": [
-    "build/iscroll.js"
+    "build/iscroll.js",
+    "build/iscroll-probe.js"
   ],
   "moduleType": [
     "amd",
