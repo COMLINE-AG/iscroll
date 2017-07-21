@@ -24,7 +24,6 @@
 				this._end(e);
 				break;
 			case 'orientationchange':
-			case 'resize':
 				this._resize();
 				break;
 			case 'transitionend':
